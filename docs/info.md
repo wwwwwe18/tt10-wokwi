@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
-Full adder
+Full adder with input A, B, Cin and output S, Cout
 
 ## How to test
 
